@@ -1,6 +1,6 @@
 {
   "name": "surveytest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "comp 308 final project daniel kc and jason pearson",
   "main": "server/server.js",
   "scripts": {
